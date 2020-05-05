@@ -293,7 +293,7 @@ form h5{
 
 
                              /*  Mobile adaptation  */
-@media screen and ( max-width: 420px) {
+@media screen and ( max-width: 390px) {
 	.header-container{
 		width: 100%;
 		display: flex;
